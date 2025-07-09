@@ -1,2 +1,4 @@
 # garri
-An express-based CMS
+An framework build ontop of express with an admin dashboard
+
+
